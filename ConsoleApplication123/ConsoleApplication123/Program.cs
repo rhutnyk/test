@@ -8,9 +8,13 @@ namespace ConsoleApplication123
 {
     class Program
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi");
+            Console.WriteLine("Hi all!");
         }
     }
 }
